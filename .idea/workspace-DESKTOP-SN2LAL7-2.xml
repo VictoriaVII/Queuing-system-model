@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8efa53b4-55bb-4dba-a86c-994d1fba442b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2OQ7JiqXMOTiumPllOCClaGoaoi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/PetrK/OneDrive/Учеба/5 семестр/Архитектура программных систем/SMO/ira2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PetrK\OneDrive\Учеба\5 семестр\Базы данных\Курсач\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PetrK\OneDrive\Учеба\5 семестр\Базы данных\Курсач\src\main\resources\gifs" />
+      <recent name="C:\Users\PetrK\OneDrive\Учеба\5 семестр\Базы данных\Курсач\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.lab7" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StartApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Kurs.StartApplication" />
+      <module name="Kurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Lab7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Lab7" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8efa53b4-55bb-4dba-a86c-994d1fba442b" name="Changes" comment="" />
+      <created>1681480882044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681480882044</updated>
+      <workItem from="1681480883161" duration="11563000" />
+      <workItem from="1681540867918" duration="3296000" />
+      <workItem from="1681584898118" duration="516000" />
+      <workItem from="1681630629978" duration="1428000" />
+      <workItem from="1682259555749" duration="17134000" />
+      <workItem from="1682315580654" duration="7254000" />
+      <workItem from="1682365178724" duration="160000" />
+      <workItem from="1682422215478" duration="324000" />
+      <workItem from="1683350709662" duration="4454000" />
+      <workItem from="1685038342645" duration="2463000" />
+      <workItem from="1686418442983" duration="161000" />
+      <workItem from="1686466212005" duration="6000" />
+      <workItem from="1686466230332" duration="4000" />
+      <workItem from="1690266483290" duration="1000" />
+      <workItem from="1696012087121" duration="224000" />
+      <workItem from="1696060340272" duration="949000" />
+      <workItem from="1696062094300" duration="1917000" />
+      <workItem from="1696066612255" duration="3271000" />
+      <workItem from="1696070585551" duration="6499000" />
+      <workItem from="1696090012379" duration="11712000" />
+      <workItem from="1696145865152" duration="15917000" />
+      <workItem from="1696180321112" duration="10864000" />
+      <workItem from="1696250659363" duration="882000" />
+      <workItem from="1696253793172" duration="11932000" />
+      <workItem from="1696270989648" duration="235000" />
+      <workItem from="1696321286061" duration="4362000" />
+      <workItem from="1696327096156" duration="99000" />
+      <workItem from="1696327245385" duration="1060000" />
+      <workItem from="1696363277168" duration="384000" />
+      <workItem from="1696410119229" duration="146000" />
+      <workItem from="1696443848110" duration="963000" />
+      <workItem from="1696492713841" duration="17225000" />
+      <workItem from="1696615455378" duration="10000" />
+      <workItem from="1696766617912" duration="734000" />
+      <workItem from="1696775479433" duration="125000" />
+      <workItem from="1697356798215" duration="8000" />
+      <workItem from="1697356988534" duration="3454000" />
+      <workItem from="1698406860794" duration="180000" />
+      <workItem from="1698407181600" duration="3010000" />
+      <workItem from="1698484810195" duration="8040000" />
+      <workItem from="1698501575945" duration="845000" />
+      <workItem from="1698585434466" duration="6561000" />
+      <workItem from="1698681025650" duration="1084000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.hibernate.exception.SQLGrammarException" package="org.hibernate.exception" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
